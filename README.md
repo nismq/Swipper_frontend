@@ -9,8 +9,7 @@ Project idea was to provide a platform where users can add their own animal or s
 </p>
 
 ## My participation
-In the begining I was part of the desining process and helped to get final desing done. 
-When coding phase stared my main tasks were implementing Match page and settings. Later on I did bug fixing and added some features.
+I was part of designing the UI and the components for the application. My main responsibilities were creating button components and implementing Start, Sign Up, Login and Feed views.
 
 ### Match page
 <p float="left">
@@ -39,3 +38,7 @@ Final desing for the frontend.
 <li> https://github.com/RajatRijal </li>
 <li> https://github.com/WellyBelly </li>
 </ul>
+
+___
+
+*This README was created by https://github.com/JoneMus and edited by me.*
