@@ -15,8 +15,8 @@ My main responsibilities were creating button components and implementing Start,
 
 ## Match page
 <p float="left">
-  <img src="https://github.com/JoneMus/Swipper_frontend/assets/99409713/837e24aa-828c-4cd3-95f2-2ad7ac3b94c8" alt="" width="150" height="300">
   <img src="https://github.com/JoneMus/Swipper_frontend/assets/99409713/107eb2dd-80b9-4bef-b8c0-d471ee6e67f0" alt="" width="150" height="300">
+  <img src="https://github.com/JoneMus/Swipper_frontend/assets/99409713/837e24aa-828c-4cd3-95f2-2ad7ac3b94c8" alt="" width="150" height="300">
   <img src="https://github.com/JoneMus/Swipper_frontend/assets/99409713/3aac34df-7fbe-4762-8fe4-2a9d9dfa7310" alt="" width="150" height="300">
 </p>
 Match page is additional way to search listed animals. User can like animal by swiping right or by clicking the like button. 
@@ -43,4 +43,4 @@ Final design for the frontend.
 
 ___
 
-*This README was created by Jonne Mustajärvi https://github.com/JoneMus and edited by me.*
+*This README was created by Jonne Mustajärvi https://github.com/JoneMus and edited by Jere Nissinen (me).*
